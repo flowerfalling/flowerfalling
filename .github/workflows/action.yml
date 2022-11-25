@@ -1,0 +1,18 @@
+name: Metrics
+on:
+  # 一小时执行一次action
+  schedule: [{cron: "0 * * * *"}]
+  # 每次提交执行action
+  push: {branches: ["master", "main"]}
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+        # 仓库位置, 可以fork后用自己的仓库
+      - uses: lowlighter/metrics@latest
+        with:
+          # GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
