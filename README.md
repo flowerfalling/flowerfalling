@@ -1,24 +1,17 @@
 ### Hi there 👋
 
-<h1 align="center">
-	<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello world!&center=true&size=27">
-</h1>
-
-
-
 <div align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=flowerfalling" alt="访客统计" /></div>
-
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/flowerfalling/flowerfalling/assets/github-contribution-grid-snake.svg" /></div>
 
 #  🙋 Hello
 
 <div align="center">
-<a href="https://github.com/sun0225SUN/Awesome-Love-Code">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/sun0225SUN/Student-Data-Vision">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/flowerfalling/Research-Study---Chemistry">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowerfalling&repo=Research-Study---Chemistry&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/flowerfalling/study-notes">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowerfalling&repo=study-notes&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
 🧰 常用的工具:
