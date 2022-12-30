@@ -1,0 +1,17 @@
+name: Auto Green
+
+on:
+  schedule:
+    - cron: "0 0,10 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v9
+        with:
+          branch: main
+          message: 'Update'
