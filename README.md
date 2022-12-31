@@ -5,7 +5,12 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowerfalling&repo=Research-Study---Chemistry&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <a href="https://github.com/flowerfalling/study-notes">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowerfalling&repo=study-notes&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/flowerfalling/Deep-learning">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowerfalling&repo=Deep-learning&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/flowerfalling/mySpider">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowerfalling&repo=mySpider&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
+
 
 🧰 常用的工具:
 
@@ -41,15 +46,13 @@
 # 🚀 Actions
 
 <div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flowerfalling&theme=dark&hide_border=true" />
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </div>
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=flowerfalling&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flowerfalling&show_icons=true&theme=prussian)
+<div align="center"><img  src="https://github-readme-stats.vercel.app/api?username=flowerfalling&show_icons=true&theme=prussian" /></div>
 
 # 🎯 Details
 
