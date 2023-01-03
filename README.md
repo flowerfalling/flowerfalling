@@ -46,7 +46,7 @@
 # 🚀 Actions
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flowerfalling&theme=dark&hide_border=true" />
+	<img src="https://streak-stats.demolab.com?user=flowerfalling&theme=github-dark-blue"/>
 </div>
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 
@@ -57,5 +57,5 @@
 # 🎯 Details
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/flowerfalling/flowerfalling/github-metrics.svg" alt="plugin metrics" width="75%"/>
+  <img src="./github-metrics.svg" alt="plugin metrics" width="75%"/>
 </div>
