@@ -2,13 +2,13 @@
 
 <div align="center">
 <a href="https://github.com/flowerfalling/Research-Study---Chemistry">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowerfalling&repo=Research-Study---Chemistry&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=flowerfalling&repo=Research-Study---Chemistry&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <a href="https://github.com/flowerfalling/study-notes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowerfalling&repo=study-notes&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=flowerfalling&repo=study-notes&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <a href="https://github.com/flowerfalling/Deep-learning">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowerfalling&repo=Deep-learning&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=flowerfalling&repo=Deep-learning&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <a href="https://github.com/flowerfalling/mySpider">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowerfalling&repo=mySpider&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=flowerfalling&repo=mySpider&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
 💪 正在学习: 
@@ -76,7 +76,10 @@
 
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=flowerfalling&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
 
-<div align="center"><img  src="https://github-readme-stats.vercel.app/api?username=flowerfalling&show_icons=true&theme=prussian" /></div>
+<div align="center">
+  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=flowerfalling&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=flowerfalling&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div> 
 
 # 🎯 Details
 
