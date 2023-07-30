@@ -1,4 +1,15 @@
-🙋 Hello
+![](assets/Bottom_up.svg)
+
+<p align="center">
+    <a href="https://github.com/flowerfalling/flowerfalling"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/flowerfalling/flowerfalling/graphs/contributors"><img src="https://img.shields.io/github/contributors/flowerfalling/flowerfalling?color=blue"></a>
+    <a href="https://github.com/flowerfalling/flowerfalling/stargazers"><img src="https://img.shields.io/github/stars/flowerfalling/flowerfalling.svg?logo=github"></a>
+    <a href="https://github.com/flowerfalling/flowerfalling/network/members"><img src="https://img.shields.io/github/forks/flowerfalling/flowerfalling.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=flowerfalling.flowerfalling" alt="visitors"/>   
+</p>
+
+![](./assets/header.png)
 
 <div align="center">
 <a href="https://github.com/flowerfalling/Research-Study---Chemistry">
@@ -10,21 +21,19 @@
 <a href="https://github.com/flowerfalling/mySpider">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=flowerfalling&repo=mySpider&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
-
-💪 正在学习: 
+💪 Learning: 
 
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![Rust](https://img.shields.io/badge/-Rust-00599C?style=flat-square&logo=rust)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-success?style=flat-square&logo=kotlin)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-![Wolfram](https://img.shields.io/badge/-Wolfram-red?style=flat-square&logo=wolfram)
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
-![Matlab](https://img.shields.io/badge/Matlab-0078D6?style=flat-square)
+![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-FCC624?style=flat-square&logo=pytorch)
 ![Django](https://img.shields.io/badge/-Django-pink?style=flat-square&logo=django)
 ![Latex](https://img.shields.io/badge/-Latex-oringe?style=flat-square&logo=Latex)
 
-🧠 计划学习:
+🧠 Planned Learning:
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -37,7 +46,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 ![Vue](https://img.shields.io/badge/Vue-%23276DC3.svg?style=flat-square&logo=vue.js&logoColor=white)
 
-🧰 常用的工具:
+🧰 Common tools:
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/-JetBrains-blueviolet?style=flat-square&logo=jetbrains)
@@ -65,25 +74,17 @@
 </div>
 
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
-
 # 🚀 Actions
 
-<div align="center">
-	<img src="https://streak-stats.demolab.com?user=flowerfalling&theme=github-dark-blue"/>
-</div>
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
+<img src="https://streak-stats.demolab.com?user=flowerfalling&theme=github-dark-blue"/>
 
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=flowerfalling&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
 
 <div align="center">
-  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=flowerfalling&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=flowerfalling&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=flowerfalling&line_height=21&theme=midnight-purple" />
+  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=flowerfalling&layout=compact&langs_count=6&theme=midnight-purple" />
 </div> 
 
-# 🎯 Details
+<img src="./github-metrics.svg" alt="Metrics" width="100%" />
 
-<div align="center">
-  <img src="./github-metrics.svg" alt="plugin metrics" width="75%"/>
-</div>
-​	
+![](./assets/Bottom_down.svg)
