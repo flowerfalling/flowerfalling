@@ -1,6 +1,7 @@
 <div align="center">
-    <img src="./assets/Bottom_up.svg" />
+    <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=flower falling&fontSize=50"/>
 </div>
+
 
 <p align="center">
     <a href="https://wakatime.com/@31583be3-c93c-4899-ae80-96cbb18bc483"><img src="https://wakatime.com/badge/user/31583be3-c93c-4899-ae80-96cbb18bc483.svg" alt="Total time coded since Nov 25 2022" /></a>
