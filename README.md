@@ -76,7 +76,9 @@
 
 # 🚀 Actions
 
-<img src="https://streak-stats.demolab.com?user=flowerfalling&theme=github-dark-blue" align="center" />
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=flowerfalling&theme=github-dark-blue" />
+</div>
 
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=flowerfalling&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
 
