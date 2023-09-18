@@ -9,8 +9,7 @@
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://github.com/flowerfalling/flowerfalling/graphs/contributors"><img src="https://img.shields.io/github/contributors/flowerfalling/flowerfalling?color=blue"></a>
     <a href="https://github.com/flowerfalling/flowerfalling/stargazers"><img src="https://img.shields.io/github/stars/flowerfalling/flowerfalling.svg?logo=github"></a>
-    <a href="https://github.com/flowerfalling/flowerfalling/network/members"><img src="https://img.shields.io/github/forks/flowerfalling/flowerfalling.svg?color=blue&logo=github"></a>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=flowerfalling.flowerfalling" alt="visitors"/>   
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=flowerfalling.flowerfalling" alt="visitors"/>   
 </p>
 
 ![](./assets/header.png)
