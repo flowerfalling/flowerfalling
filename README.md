@@ -62,8 +62,8 @@
     <img src="https://streak-stats.demolab.com?user=flowerfalling&theme=github-dark-blue" />
 </div>
 <div align="center">
-  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=flowerfalling&line_height=21&theme=midnight-purple" />
-  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=flowerfalling&layout=compact&langs_count=6&theme=midnight-purple" />
+  <img height="137px" src="https://github-readme-stats-flowerfalling.vercel.app/api?username=flowerfalling&line_height=21&theme=midnight-purple&rank_icon=github" />
+  <img height="137px" src="https://github-readme-stats-flowerfalling.vercel.app/api/top-langs/?username=flowerfalling&layout=compact&langs_count=6&theme=midnight-purple" />
 </div> 
 <img src="./github-metrics.svg" alt="Metrics" width="100%" />
 
