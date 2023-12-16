@@ -15,8 +15,8 @@
 ![](./assets/header.png)
 
 <div align="center">
-<a href="https://github.com/flowerfalling/Research-Study---Chemistry">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=flowerfalling&repo=Research-Study---Chemistry&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/flowerfalling/wxbot">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=flowerfalling&repo=wxbot&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <a href="https://github.com/flowerfalling/study-notes">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=flowerfalling&repo=study-notes&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <a href="https://github.com/flowerfalling/Deep-learning">
