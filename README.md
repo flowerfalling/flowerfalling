@@ -13,8 +13,6 @@
 
 Hi, I'm [flowerfalling](https://github.com/flowerfalling/flowerfalling), a Student 🚀 from China.
 
-<br>
-
 <h3>
 	<img
 		src="https://emojis.slackmojis.com/emojis/images/1680554188/65018/cat-roomba-exceptionally-fast.gif"
@@ -75,11 +73,5 @@ Hi, I'm [flowerfalling](https://github.com/flowerfalling/flowerfalling), a Stude
 <a href="https://github.com/flowerfalling/study-notes" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flowerfalling&repo=study-notes&theme=dark" />
 </a>
-
----
-
-<img src="https://raw.githubusercontent.com/flowerfalling/flowerfalling/output/github-contribution-grid-snake-dark.svg">
-
-![Visitor Count](https://profile-counter.glitch.me/flowerfalling/count.svg)
 
 ---
