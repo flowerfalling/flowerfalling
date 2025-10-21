@@ -80,8 +80,8 @@
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">algo</span>
-                                <div class="bar" style="width: 1.744%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">tju_autocourse</span>
+                                <div class="bar" style="width: 1.7120000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                         </div>
